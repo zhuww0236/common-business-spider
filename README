@@ -1,0 +1,3 @@
+京东联盟商品机器人 0.0.2
+
+采用 python + BeautifulSoup 抓取京东联盟网站的商品信息，使用二维码登录，cookies 本地持久化
